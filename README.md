@@ -6,4 +6,3 @@
     <a href="https://www.linkedin.com/in/prafulla-raichurkar98/" target="_blank"><img height="38" src="https://img.shields.io/static/v1?label=linkedin&message=Connect&color=0072b1&style=for-the-badge&logo=linkedin&labelColor=000"/></a>
  </p>
 
-## I love to explore technology and develop interesting things out of it. You can find some of my open-source work here :).
